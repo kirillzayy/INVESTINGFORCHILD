@@ -1,0 +1,47 @@
+h1.wow.animate__fadeInUp.animate__animated {
+  margin-bottom: 80px;
+}
+
+@media (min-width: 1200px) {
+  p.glav_blog {
+    padding: 20px;
+      /* font-weight: 700; */
+      font-size: 17px;
+      font-family: "Montserrat", sans-serif;
+      max-width: 45%;
+      text-align: center;
+      margin: 0 auto;
+  }
+  
+}
+.finam {
+  font-size: 50px;
+  font-weight: 700;
+}
+@media (max-width: 1200px) {
+  h1.wow.animate__fadeInUp.animate__animated {
+    margin-bottom: 100px;
+    padding-top: -21px;
+    position: relative;
+    top: 200px;
+  }
+  p.glav_blog {
+    padding: 20px;
+    /* font-weight: 700; */
+    font-size: 17px;
+    font-family: "Montserrat", sans-serif;
+  }
+}
+h1.wow.animate__fadeInUp.animate__animated {
+  margin-bottom: 355px;
+}
+.tablepress {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  margin-bottom: 1em;
+  border: none;
+  border: 1px solid #ddd;
+  margin-bottom: 30px;
+  border-width: none;
+}
